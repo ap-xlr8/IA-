@@ -1,0 +1,14 @@
+Pillow>=9.0.0
+mediapipe>=0.10.0
+opencv-python>=4.7.0
+numpy>=1.23.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+diffusers>=0.20.0
+accelerate>=0.20.0
+xformers>=0.0.20
+bitsandbytes>=0.39.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+tqdm>=4.65.0
